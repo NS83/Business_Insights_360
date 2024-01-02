@@ -7,10 +7,8 @@ AtliQ Hardware is an electronics company that manufactures consumer goods and op
 I worked on this project as part of the Codebasics bootcamp (https://codebasics.io/).
 
 **Tech Stacks**
-
-Power BI desktop
-
-Project Charter
+*+ Power BI desktop
+*+ Project Charter
 
 SQL
 
