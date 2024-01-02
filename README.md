@@ -10,5 +10,6 @@ I worked on this project as part of the Codebasics bootcamp (https://codebasics.
 * Power BI desktop
 * Project Charter
 * SQL
+* Excel
 * DAX
 * Dax Studio (to optimize report and reduce File size by 25%)
