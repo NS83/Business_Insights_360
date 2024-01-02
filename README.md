@@ -7,8 +7,13 @@ AtliQ Hardware is an electronics company that manufactures consumer goods and op
 I worked on this project as part of the Codebasics bootcamp (https://codebasics.io/).
 
 **Tech Stacks**
+
 Power BI desktop
+
 Project Charter
+
 SQL
+
 DAX
+
 Dax Studio (to optimize report and reduce File size by 25%)
