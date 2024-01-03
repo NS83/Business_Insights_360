@@ -39,3 +39,17 @@ I worked on this project as part of the Codebasics bootcamp (https://codebasics.
 * Create a Power BI service account to publish the report
 * Implement stakeholder feedback post review
 * Set up automatic refresh for MySQL & Excel
+
+**Key Business Concepts**
+* Gross Price
+* Pre-invoice Deduction
+* Net invoice Sales
+* Post-invoice Deduction
+* Net Sales
+* Cost of Goods Sold
+* Gross Margin
+* Gross Margin %
+* Gross Margin/ Unit
+* Operational Expense
+* Net Profit
+* Net Profit %
