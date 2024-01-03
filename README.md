@@ -2,7 +2,7 @@
 
 **Project Overview**
 
-AtliQ Hardware is an electronics company that manufactures consumer goods and operates in various countries. As the company continues to grow rapidly, Excel alone doesn't seem sufficient to provide comprehensive business insights. While Atliq continued to experience substantial growth, they also incurred a significant loss in Latin America business decisions were made based on a combination of surveys and intuition. One of the top agenda items in the annual strategic meeting was to onboard a data analyst team to enable data-driven decision-making within the company. The product owner of Atliq Hardwares had provided an excel file with report features outlining the requirements of five different dashboards.
+AtliQ Hardware is an electronics company that manufactures consumer goods and operates in various countries. As the company continued to grow rapidly, Excel alone wasn't sufficient to provide comprehensive business insights. While Atliq continued to experience substantial growth, they also incurred a significant loss in Latin America as business decisions were made based on a combination of surveys and intuitions. Meanwhile, AtliQ's competitors continued to experience substantial growth, attributed to their large data analyst team with a robust understanding of the market demographics, consumption patterns, and income levels. One of the key agenda items in the annual strategic meeting was to onboard a data analyst team to facilitate data-driven decision-making within the company. The product owner of AtliQ Hardwares provided an Excel file with report features that outline the requirements for five different dashboards.
 
 I worked on this project as part of the Codebasics bootcamp (https://codebasics.io/).
 
@@ -40,6 +40,7 @@ I worked on this project as part of the Codebasics bootcamp (https://codebasics.
 * Implement stakeholder feedback post review
 * Set up automatic refresh for MySQL & Excel
 
+
 **Key Business Concepts**
 * Gross Price
 * Pre-invoice Deduction
@@ -53,3 +54,7 @@ I worked on this project as part of the Codebasics bootcamp (https://codebasics.
 * Operational Expense
 * Net Profit
 * Net Profit %
+* Forecast, Accuracy, Net Error, Absolute Error, Forecast Accuracy
+* Customer, Consumer
+* Platforms: Brick & Mortar, E-Commerce
+* Channels: Retail, Direct, & Distributor
