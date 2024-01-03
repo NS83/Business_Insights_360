@@ -61,9 +61,15 @@ I worked on this project as part of the Codebasics bootcamp (https://codebasics.
 
 
 **Project Charter Meeting: Questions asked**
-* Profit and Loss Statement : Do you need a regular P&L Statement or any sort of customization in it?
-* Sales View: What metric should be plotted on the X vs Y-Axis?
-* 
+* What are the objectives of this project?
+* What are the success measures for this project?
+* What will be the timeline for this project?
+* What are the hopes and fears of the stakeholders for this project?
+* How will the data analyst team validate data accuracy in the Power BI dashboard?
+* How will the data analyst team avoid feature creep?
+* Who are the team members involved in the project?
+* What are the points to define this project to be a success?
+* What are the risks involved in building this project?
 
 
 **Understanding the Data**
