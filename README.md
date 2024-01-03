@@ -58,3 +58,12 @@ I worked on this project as part of the Codebasics bootcamp (https://codebasics.
 * Customer, Consumer
 * Platforms: Brick & Mortar, E-Commerce
 * Channels: Retail, Direct, & Distributor
+
+
+**Project Charter Meeting: Questions asked**
+* Profit and Loss Statement : Do you need a regular P&L Statement or any sort of customization in it?
+* Sales View: What metric should be plotted on the X vs Y-Axis?
+* 
+
+
+**Understanding the Data**
