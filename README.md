@@ -110,7 +110,8 @@ gdb041:
   
 * fact_sales_monthly:
 
-              * This table is similar to the fact_forecast_monthly except that the last column represents the actual sold quantity of products instead of the forecast quantity.
+              * This table is similar to the fact_forecast_monthly except that the last column represents the actual sold quantity
+                of products instead of the forecast quantity.
 
 
 gdb056:
@@ -138,8 +139,8 @@ gdb056:
 
 
 
-After a thorough evaluation of the dataset, I began by loading the data from MySQL to Power BI. Once the data was loaded, I perfromed data transformation in Power Query followed by Query folding 
-to improve performance.
+After a thorough evaluation of the dataset, I began by loading the data from MySQL to Power BI. Once the data was loaded, I performed data transformation in 
+Power Query followed by Query folding to improve performance.
 
 **Data Modeling**
 
