@@ -75,7 +75,7 @@ I worked on this project as part of the Codebasics bootcamp (https://codebasics.
 **Data Exploration**
 
 There are two SQL dump files that are provided: gdb041 and gdb056. Both the files were unziped using Winzip after which they were imported into mySQL.
-Each file consists of dimension tables and Fact tables. Fact tables consist of transactional data and Dimension tables consist of entities that participate in the transaction. 
+Each file consists of dimension tables and Fact tables. Fact tables consist of transactional data ( things that happened) + foreign keys and Dimension tables consist of entities that participate in the transaction + primary keys (which is like a unique identification code for each dimension record). 
 
 gdb041:
    
@@ -137,7 +137,12 @@ gdb056:
              * This table contains post invoice Discount percent and other deductions percent with product and customer code
 
 
-AFter loading the data from MySQL to Power BI and data transformation in Power Query, performed Quer folding to improve performance.
+AFter loading the data from MySQL to Power BI and data transformation in Power Query, performed Query folding to improve performance.
 
 **Data Modeling**
+
+* Data modeling is crucial in Power BI for several reasons, as it plays a fundamental role in structuring and organizing data to create meaningful visualizations and insights.
+* Data modeling allows you to establish relationships (in this case, one to many relation) between these tables, enabling the creation of comprehensive reports by combining information from different sources.
+* By defining relationship, it is ensured that the data is accurate and consistent across various tables.
+
 
