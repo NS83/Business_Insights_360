@@ -110,8 +110,8 @@ gdb041:
   
 * fact_sales_monthly:
 
-              * This table is similar to the fact_forecast_monthly except that the last column represents the actual sold quantity
-                of products instead of the forecast quantity.
+              * This table is similar to the fact_forecast_monthly except that the last column represents the actual
+                sold quantity of products instead of the forecast quantity.
 
 
 gdb056:
