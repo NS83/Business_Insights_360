@@ -170,3 +170,15 @@ Power Query followed by Query folding to improve performance.
 **MARKETING VIEW**![image](https://github.com/NS83/Business_Insights_360/assets/44031440/b929459f-a192-4821-9273-b32e74c827b7)
 
 
+**SUPPLY CHAIN VIEW**![image](https://github.com/NS83/Business_Insights_360/assets/44031440/27ee23db-4b62-4d8e-a50e-da73c7297a11)
+
+
+**EXECUTIVE VIEW**![image](https://github.com/NS83/Business_Insights_360/assets/44031440/087c569f-e91e-4ee6-80d1-db6217b3937f)
+
+
+**SUPPORT PAGE**![image](https://github.com/NS83/Business_Insights_360/assets/44031440/40235bb2-6d31-4a0d-9f5e-41cb6aac9530)
+
+
+
+
+
