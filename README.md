@@ -88,6 +88,12 @@ gdb041:
               * 209 Distinct and 209 Unique values for Customer Code
 
 * dim_market:
+
+              * 27 Distinct (such as India, FRANCE, Germany) and 27 Unique values for market
+              * 7 Distinct (such as ROA, NE, LATAM, NA) and 1 Unique value for sub_zone
+              * 4 Distinct(EU, APAC, LATAM, NA) and 0 Unique value for region
+
+
 * dim_product:
 * fact_forecast_monthly:
 * fact_sales_monthly:
