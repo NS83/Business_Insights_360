@@ -87,5 +87,18 @@ gdb041:
               * 3 Distinct (Retailer, Direct, & Distributor) and 0 Unique values for Channel
               * 209 Distinct and 209 Unique values for Customer Code
 
+* dim_market:
+* dim_product:
+* fact_forecast_monthly:
+* fact_sales_monthly:
+
+
+gdb056:
+
+* freight_cost
+* gross_price
+* manufacturing_cost
+* pre_invoice_deductions
+* post_invoice_deductions
 
 
