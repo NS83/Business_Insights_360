@@ -153,3 +153,5 @@ Power Query followed by Query folding to improve performance.
 * Effective data modeling is essential for writing DAX formulas to create custom calculations that can manipulate and analyze data in meaningful ways.
 
 
+
+![image](https://github.com/NS83/Business_Insights_360/assets/44031440/4bee400c-1c06-4452-8d75-22c4b9ceb090)
