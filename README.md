@@ -152,31 +152,35 @@ Power Query followed by Query folding to improve performance.
   metrics that provide valuable insights.
 * Effective data modeling is essential for writing DAX formulas to create custom calculations that can manipulate and analyze data in meaningful ways.
 
-
-
 ![image](https://github.com/NS83/Business_Insights_360/assets/44031440/4bee400c-1c06-4452-8d75-22c4b9ceb090)
 
 
-**HOME PAGE**
+                                         **HOME PAGE**  
 ![image](https://github.com/NS83/Business_Insights_360/assets/44031440/1ed80d01-75f6-4012-bc2e-a9e3e09b9851)
 
 
-**FINANCE VIEW**![image](https://github.com/NS83/Business_Insights_360/assets/44031440/48c6cd48-f82e-4869-80ca-6ef0132d6c8b)
+                                         **FINANCE VIEW**     
+![image](https://github.com/NS83/Business_Insights_360/assets/44031440/48c6cd48-f82e-4869-80ca-6ef0132d6c8b)
 
 
-**SALES VIEW**![image](https://github.com/NS83/Business_Insights_360/assets/44031440/8d4ccef0-e53a-4205-a52b-4463c03cbd70)
+                                          **SALES VIEW**
+![image](https://github.com/NS83/Business_Insights_360/assets/44031440/8d4ccef0-e53a-4205-a52b-4463c03cbd70)
 
 
-**MARKETING VIEW**![image](https://github.com/NS83/Business_Insights_360/assets/44031440/b929459f-a192-4821-9273-b32e74c827b7)
+                                          **MARKETING VIEW**
+![image](https://github.com/NS83/Business_Insights_360/assets/44031440/b929459f-a192-4821-9273-b32e74c827b7)
 
 
-**SUPPLY CHAIN VIEW**![image](https://github.com/NS83/Business_Insights_360/assets/44031440/27ee23db-4b62-4d8e-a50e-da73c7297a11)
+                                         **SUPPLY CHAIN VIEW**
+![image](https://github.com/NS83/Business_Insights_360/assets/44031440/27ee23db-4b62-4d8e-a50e-da73c7297a11)
 
 
-**EXECUTIVE VIEW**![image](https://github.com/NS83/Business_Insights_360/assets/44031440/087c569f-e91e-4ee6-80d1-db6217b3937f)
+                                          **EXECUTIVE VIEW**
+![image](https://github.com/NS83/Business_Insights_360/assets/44031440/087c569f-e91e-4ee6-80d1-db6217b3937f)
 
 
-**SUPPORT PAGE**![image](https://github.com/NS83/Business_Insights_360/assets/44031440/40235bb2-6d31-4a0d-9f5e-41cb6aac9530)
+                                           **SUPPORT PAGE**
+![image](https://github.com/NS83/Business_Insights_360/assets/44031440/40235bb2-6d31-4a0d-9f5e-41cb6aac9530)
 
 
 
