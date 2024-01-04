@@ -105,6 +105,8 @@ gdb041:
 
   
 * fact_forecast_monthly:
+
+              * This table contains forecast quantity along with product and customer code
   
 * fact_sales_monthly:
 
@@ -113,10 +115,29 @@ gdb041:
 
 gdb056:
 
-* freight_cost
-* gross_price
-* manufacturing_cost
-* pre_invoice_deductions
-* post_invoice_deductions
+* freight_cost:
 
+             * 27 Distinct values for market]
+             * This table contains freight_pct and other_cost_pct
+  
+* gross_price:
+
+             * This table consists of gross price with product code
+  
+* manufacturing_cost:
+
+             * This table contains manufacturing cost with product code
+  
+* pre_invoice_deductions:
+
+             * This table contains the pre-invoice discount percent with customer code
+  
+* post_invoice_deductions:
+
+             * This table contains post invoice Discount percent and other deductions percent with product and customer code
+
+
+AFter loading the data from MySQL to Power BI and data transformation in Power Query, performed Quer folding to improve performance.
+
+**Data Modeling**
 
