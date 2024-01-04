@@ -167,3 +167,6 @@ Power Query followed by Query folding to improve performance.
 **SALES VIEW**![image](https://github.com/NS83/Business_Insights_360/assets/44031440/8d4ccef0-e53a-4205-a52b-4463c03cbd70)
 
 
+**MARKETING VIEW**![image](https://github.com/NS83/Business_Insights_360/assets/44031440/b929459f-a192-4821-9273-b32e74c827b7)
+
+
