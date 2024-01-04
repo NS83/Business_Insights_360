@@ -73,6 +73,7 @@ I worked on this project as part of the Codebasics bootcamp (https://codebasics.
 
 
 **Data Exploration**
+
 There are two SQL dump files that are provided: gdb041 and gdb056. Both the files were unziped using Winzip after which they were imported into mySQL.
 Each file consists of dimension tables and Fact tables. Fact tables consist of transactional data and Dimension tables consist of entities that participate in the transaction. 
 
