@@ -137,12 +137,18 @@ gdb056:
              * This table contains post invoice Discount percent and other deductions percent with product and customer code
 
 
-AFter loading the data from MySQL to Power BI and data transformation in Power Query, performed Query folding to improve performance.
+
+After a thorough evaluation of the dataset, I began by loading the data from MySQL to Power BI. Once the data was loaded, I perfromed data transformation in Power Query followed by Query folding 
+to improve performance.
 
 **Data Modeling**
 
 * Data modeling is crucial in Power BI for several reasons, as it plays a fundamental role in structuring and organizing data to create meaningful visualizations and insights.
-* Data modeling allows you to establish relationships (in this case, one to many relation) between these tables, enabling the creation of comprehensive reports by combining information from different sources.
+* Data modeling allows you to establish relationships (in this case, one to many relation) between these tables, enabling the creation of comprehensive reports by combining information
+  from different sources.
 * By defining relationship, it is ensured that the data is accurate and consistent across various tables.
+* Data modeling allows for the creation of calculated columns and measures, enabling the aggregation and summarization of data. This is essential for generating key performance indicators (KPIs) and other 
+  metrics that provide valuable insights.
+* Effective data modeling is essential for writing DAX formulas to create custom calculations that can manipulate and analyze data in meaningful ways.
 
 
