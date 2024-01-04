@@ -79,7 +79,7 @@ Each file consists of dimension tables and Fact tables. Fact tables consist of t
 
 gdb041:
    
-    * dim_customer:
+* dim_customer:
              
               * 76 Distinct and 20 Unique value for Customers
               * 27 Distinct and 1 Unique value for market
