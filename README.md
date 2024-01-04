@@ -95,8 +95,20 @@ gdb041:
 
 
 * dim_product:
+
+              * 397 Distinct and Unique values for product_code
+              * 3 Distinct values for Division (P & A, PC, N & S)
+              * 6 Distinct values for segment (such as Notebook, Peripherals, Desktop)
+              * 14 Distinct values for categories (such as Personal Laptop, Mouse, Keyboard)
+              * 73 Distinct values for product ( such as AQ F16, AQ Smash 1, AQ Gamer 1)
+              * 27 Distinct and 1 Unique value for variant (such as Plus 2, Standard, Premium)
+
+  
 * fact_forecast_monthly:
+  
 * fact_sales_monthly:
+
+              * This table is similar to the fact_forecast_monthly except that the last column represents the actual sold quantity of products instead of the forecast quantity.
 
 
 gdb056:
