@@ -155,3 +155,7 @@ Power Query followed by Query folding to improve performance.
 
 
 ![image](https://github.com/NS83/Business_Insights_360/assets/44031440/4bee400c-1c06-4452-8d75-22c4b9ceb090)
+
+
+
+"C:\Users\nithi\OneDrive\Desktop\Untitled video.gif"
