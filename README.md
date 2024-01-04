@@ -78,7 +78,9 @@ There are two SQL dump files that are provided: gdb041 and gdb056. Both the file
 Each file consists of dimension tables and Fact tables. Fact tables consist of transactional data and Dimension tables consist of entities that participate in the transaction. 
 
 gdb041:
+   
     * dim_customer:
+             
               * 76 Distinct and 20 Unique value for Customers
               * 27 Distinct and 1 Unique value for market
               * 2 Distinct ( Brick & Mortar, E-Commerce) and 0 Unique values for platform
