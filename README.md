@@ -77,7 +77,13 @@ I worked on this project as part of the Codebasics bootcamp (https://codebasics.
 There are two SQL dump files that are provided: gdb041 and gdb056. Both the files were unziped using Winzip after which they were imported into mySQL.
 Each file consists of dimension tables and Fact tables. Fact tables consist of transactional data and Dimension tables consist of entities that participate in the transaction. 
 
-gdb041
-8
+gdb041:
+    * dim_customer:
+              * 76 Distinct and 20 Unique value for Customers
+              * 27 Distinct and 1 Unique value for market
+              * 2 Distinct ( Brick & Mortar, E-Commerce) and 0 Unique values for platform
+              * 3 Distinct (Retailer, Direct, & Distributor) and 0 Unique values for Channel
+              * 209 Distinct and 209 Unique values for Customer Code
+
 
 
