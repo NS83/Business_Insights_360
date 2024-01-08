@@ -189,8 +189,13 @@ Power Query followed by Query folding to improve performance.
                                 
    **Project Outcome**
 
-This report will provide quick insights to stakeholders by reducing communication time with managers. Simultaneously, it will aid 
-in making data-driven decisions to enhance business outcomes.
+This report will provide quick insights to stakeholders by reducing communication time with managers. Simultaneously, it will enhance
+data-driven decision-making process and foster a more informed and agile approach to managing business strategies.
+
+
+
+
+
 
 
 
