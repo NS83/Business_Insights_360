@@ -159,6 +159,9 @@ Power Query followed by Query folding to improve performance.
 ![image](https://github.com/NS83/Business_Insights_360/assets/44031440/1ed80d01-75f6-4012-bc2e-a9e3e09b9851)
 
 
+https://app.powerbi.com/view?r=eyJrIjoiYzg2OTJlYjYtZGJiZi00OWRkLTgzNWMtYTcyNWMxYmM2MTgzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
                                          **FINANCE VIEW**     
 ![image](https://github.com/NS83/Business_Insights_360/assets/44031440/48c6cd48-f82e-4869-80ca-6ef0132d6c8b)
 
