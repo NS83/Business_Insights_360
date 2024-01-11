@@ -163,7 +163,7 @@ Power Query followed by Query folding to improve performance.
 ![image](https://github.com/NS83/Business_Insights_360/assets/44031440/48c6cd48-f82e-4869-80ca-6ef0132d6c8b)
 
 
-![image](https://github.com/NS83/Business_Insights_360/assets/44031440/2b47ba7d-1eca-4e0a-b42c-d33ecf5c88f2)
+![image](https://github.com/NS83/Business_Insights_360/assets/44031440/6667c1d1-4a26-4a98-b18b-0ba4b76f4e84)
 
 
 
