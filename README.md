@@ -158,6 +158,7 @@ Power Query followed by Query folding to improve performance.
                                          **HOME PAGE**  
 ![image](https://github.com/NS83/Business_Insights_360/assets/44031440/1ed80d01-75f6-4012-bc2e-a9e3e09b9851)
 
+https://www.canva.com/design/DAF5jHOiBOA/GBLM_GO_3eaTiwhv5tBt7g/edit?utm_content=DAF5jHOiBOA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
                                          **FINANCE VIEW**     
 ![image](https://github.com/NS83/Business_Insights_360/assets/44031440/48c6cd48-f82e-4869-80ca-6ef0132d6c8b)
